@@ -8,3 +8,7 @@ Source KMLs are from ONS Open Geography Portal under open / public licence with 
 Files are for use in Power BI Map visuals.
 
 * Contains ONS data © Crown copyright and database right 2018. This data is licensed under the Open Government Licence v3.0.
+
+I'm just following the very helpful advice found at..
+https://github.com/deldersveld/topojson
+https://community.powerbi.com/t5/Desktop/Create-Your-Own-Custom-Map-for-Power-BI/td-p/165854
